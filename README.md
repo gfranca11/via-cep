@@ -9,7 +9,7 @@ VIA CEP
   </h5>
 
 ## 🖥 Antevisão 
-<img src="https://github.com/gfranca11/QUIZ/blob/main/Anima%C3%A7%C3%A3o60.gif">
+<img src="https://github.com/gfranca11/via-cep/blob/main/Animation228.gif">
  
  📌 Ajustes e melhorias
  
